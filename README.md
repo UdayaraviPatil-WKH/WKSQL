@@ -4,7 +4,7 @@ Got a quick question? [Discussions](https://github.com/UdayaraviPatil-WKH/WKSQL)
 
 [WKSQL](https://github.com/UdayaraviPatil-WKH/WKSQL) lets you execute TSQL commands on a remote SQL Server and get the results. It is a lightweight .NET wrapper. About 30% of the bindings are written in C# and 70% of code is in T-SQL.
 
-CefSharp is [MIT](https://github.com/UdayaraviPatil-WKH/WKSQL?tab=MIT-1-ov-file) licensed, so it can be used in proprietary applications.
+WKSQL is [MIT](https://github.com/UdayaraviPatil-WKH/WKSQL?tab=MIT-1-ov-file) licensed, so it can be used in proprietary applications.
 
 ## Releases
 
